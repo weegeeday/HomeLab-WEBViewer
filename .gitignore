@@ -1,3 +1,10 @@
+# Dot folders & AI/IDE configurations
+.cursor/
+.agents/
+.impeccable/
+.vscode/
+.idea/
+
 # Dependencies
 node_modules/
 
@@ -9,8 +16,6 @@ dist-ssr/
 *.blend1
 
 # IDE & Editor files
-.vscode/
-.idea/
 *.suo
 *.ntvs*
 *.njsproj
